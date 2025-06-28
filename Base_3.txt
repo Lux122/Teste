@@ -1,3 +1,0 @@
-IP = 'BAseee3333'
-USER = 'BAKA3333'
-USED = 'TRUE'
